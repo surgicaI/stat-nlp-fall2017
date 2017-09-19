@@ -1,6 +1,6 @@
 ---
 name:
-   first: Abhinav
-   last: Gupta
-email: abhinavg@nyu.edu
-leaderboard: backpropper
+   first: Simranjyot Singh
+   last: Gill
+email: simranjyot@nyu.edu
+leaderboard: surgical
