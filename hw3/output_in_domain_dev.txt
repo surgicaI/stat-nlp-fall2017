@@ -1518,8 +1518,8 @@ market	NN
 seems	VBZ
 to	TO
 be	VB
-straightening	NN
-out	RB
+straightening	JJ
+out	NN
 ;	:
 we	PRP
 're	VBP
@@ -5557,8 +5557,8 @@ this	DT
 legislation	NN
 .	.
 
-Aides	NNP
-both	CC
+Aides	IN
+both	DT
 in	IN
 the	DT
 House	NNP
@@ -7929,7 +7929,7 @@ also	RB
 remain	VB
 classified	VBN
 as	IN
-non-accruing	VBG
+non-accruing	NN
 ,	,
 costing	VBG
 the	DT
@@ -12336,7 +12336,7 @@ for	IN
 the	DT
 minor	JJ
 league	NN
-Bluefield	NNP
+Bluefield	NN
 ,	,
 Va.	NNP
 ,	,
@@ -13925,7 +13925,7 @@ Spots	NNS
 
 CALL	NNP
 IT	PRP
-un-advertising	JJ
+un-advertising	NN
 .	.
 
 Pittsburgh	NNP
@@ -14266,7 +14266,7 @@ example	NN
 ,	,
 it	PRP
 recommends	VBZ
-nonchlorinated	VBN
+nonchlorinated	JJ
 dishwasher	NN
 detergent	NN
 and	CC
@@ -14541,7 +14541,7 @@ according	VBG
 to	IN
 Video	NNP
 Storyboard	NNP
-Tests	NNS
+Tests	NNP
 ,	,
 New	NNP
 York	NNP
@@ -14903,7 +14903,7 @@ matters	NNS
 close	JJ
 to	IN
 ,	,
-er	NNP
+er	NN
 ,	,
 home	NN
 ...	:
@@ -15226,7 +15226,7 @@ or	CC
 congressmen	NNS
 .	.
 
-Indirect	NNP
+Indirect	JJ
 subsidies	NNS
 ,	,
 through	IN
@@ -15900,7 +15900,7 @@ require	VB
 unanimity	NN
 .	.
 
-Setting	NNP
+Setting	VBG
 a	DT
 date	NN
 to	TO
@@ -16728,7 +16728,7 @@ taken	VBN
 to	TO
 confirm	VB
 the	DT
-anti-debt	NN
+anti-debt	JJ
 direction	NN
 of	IN
 regulators	NNS
@@ -18667,9 +18667,9 @@ like	JJ
 ''	''
 as	IN
 investors	NNS
-fled	VBD
-to	TO
-bluechip	VB
+fled	VBN
+to	IN
+bluechip	JJ
 Australian	JJ
 stocks	NNS
 and	CC
@@ -18806,7 +18806,7 @@ the	DT
 Frankfurt	NNP
 market	NN
 's	POS
-steepest	NN
+steepest	JJS
 fall	NN
 ever	RB
 .	.
@@ -20194,7 +20194,7 @@ now	RB
 ,	,
 to	IN
 the	DT
-pre-trading	NN
+pre-trading	JJ
 declaration	NN
 of	IN
 Big	NNP
@@ -20399,7 +20399,7 @@ programs	NNS
 kicked	VBD
 in	IN
 ,	,
-hammering	NN
+hammering	VBG
 stocks	NNS
 into	IN
 steeper	JJR
@@ -21064,7 +21064,7 @@ shares	NNS
 ``	``
 It	PRP
 was	VBD
-bedlam	VBN
+bedlam	NN
 on	IN
 the	DT
 upside	NN
@@ -28212,9 +28212,9 @@ Bayer	NNP
 AG	NNP
 .	.
 
-Agfa	DT
+Agfa	NNP
 recently	RB
-signed	VBN
+signed	VBD
 Olympic	NNP
 gold	NN
 medalist	NN
@@ -28281,7 +28281,7 @@ then	RB
 ''	''
 says	VBZ
 an	DT
-Agfa	NNP
+Agfa	NN
 spokesman	NN
 .	.
 
@@ -28384,7 +28384,7 @@ who	WP
 grew	VBD
 up	RP
 being	VBG
-photographed	VBN
+photographed	NN
 in	IN
 color	NN
 ,	,
@@ -32555,7 +32555,7 @@ $	$
 million	CD
 .	.
 
-Omnicare	NN
+Omnicare	NNP
 said	VBD
 it	PRP
 expects	VBZ
@@ -33211,8 +33211,8 @@ include	VB
 businesses	NNS
 such	JJ
 as	IN
-McVities	NNS
-biscuits	NNS
+McVities	NNP
+biscuits	NNP
 and	CC
 Terry	NNP
 's	POS
@@ -34763,7 +34763,7 @@ problem	NN
 that	WDT
 had	VBD
 been	VBN
-underpinning	IN
+underpinning	VBG
 prices	NNS
 appeared	VBD
 to	TO
@@ -36401,7 +36401,7 @@ Field	NNP
 in	IN
 the	DT
 southeast	NN
-Sumatra	NNP
+Sumatra	NN
 area	NN
 of	IN
 Indonesia	NNP
@@ -37260,8 +37260,8 @@ purchase	VB
 the	DT
 Electro	NNP
 -	HYPH
-Optics	NNS
-Technology	NN
+Optics	NNP
+Technology	NNP
 division	NN
 of	IN
 Perkin	NNP
@@ -37717,7 +37717,7 @@ broadly	RB
 ,	,
 brandished	VBD
 his	PRP$
-unlit	NN
+unlit	JJ
 cigar	NN
 and	CC
 slapped	VBD
@@ -39244,7 +39244,7 @@ shares	NNS
 ``	``
 It	PRP
 was	VBD
-bedlam	VBN
+bedlam	NN
 on	IN
 the	DT
 upside	NN
@@ -40456,7 +40456,7 @@ treating	VBG
 diabetes	NN
 .	.
 
-Delegates	NNP
+Delegates	NNS
 from	IN
 91	CD
 nations	NNS
@@ -42135,7 +42135,7 @@ slower	JJR
 earnings	NNS
 growth	NN
 of	IN
-non-Manpower	NNP
+non-Manpower	JJ
 units	NNS
 in	IN
 Britain	NNP
