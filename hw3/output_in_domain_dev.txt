@@ -333,7 +333,7 @@ bailout	NN
 concludes	VBZ
 .	.
 
-Absent	JJ
+Absent	NNP
 other	JJ
 working	VBG
 capital	NN
@@ -1350,7 +1350,7 @@ This	DT
 is	VBZ
 n't	RB
 1987	CD
-revisited	JJ
+revisited	VBN
 .	.
 ''	''
 
@@ -1518,8 +1518,8 @@ market	NN
 seems	VBZ
 to	TO
 be	VB
-straightening	NN
-out	RB
+straightening	JJ
+out	NN
 ;	:
 we	PRP
 're	VBP
@@ -2452,7 +2452,7 @@ it	PRP
 dives	VBZ
 beneath	IN
 the	DT
-lunging	NN
+lunging	JJ
 bat	NN
 .	.
 
@@ -2891,7 +2891,7 @@ second	JJ
 inning	NN
 ,	,
 and	CC
-homered	VBD
+homered	VBN
 for	IN
 his	PRP$
 team	NN
@@ -4660,7 +4660,7 @@ break	NN
 .	.
 
 ``	``
-Fundamentally	RB
+Fundamentally	NNP
 dangerous	JJ
 ...	:
 ,	,
@@ -5557,7 +5557,7 @@ this	DT
 legislation	NN
 .	.
 
-Aides	VBZ
+Aides	IN
 both	DT
 in	IN
 the	DT
@@ -7204,7 +7204,7 @@ of	IN
 West	NNP
 Germany	NNP
 's	POS
-bluest	NN
+bluest	JJ
 chips	NNS
 took	VBD
 some	DT
@@ -7929,7 +7929,7 @@ also	RB
 remain	VB
 classified	VBN
 as	IN
-non-accruing	VBG
+non-accruing	JJ
 ,	,
 costing	VBG
 the	DT
@@ -11847,7 +11847,7 @@ are	VBP
 in	IN
 place	NN
 that	IN
-synchronize	JJ
+synchronize	NN
 circuit	NN
 breakers	NNS
 in	IN
@@ -12588,7 +12588,7 @@ new	JJ
 doctor	NN
 's	POS
 ``	``
-bedside	NN
+bedside	JJ
 ''	''
 extension	NN
 .	.
@@ -14903,9 +14903,9 @@ matters	NNS
 close	JJ
 to	IN
 ,	,
-er	NN
+er	CC
 ,	,
-home	NN
+home	RB
 ...	:
 
 ``	``
@@ -16728,7 +16728,7 @@ taken	VBN
 to	TO
 confirm	VB
 the	DT
-anti-debt	NN
+anti-debt	JJ
 direction	NN
 of	IN
 regulators	NNS
@@ -17059,7 +17059,7 @@ Street	NNP
 regarding	VBG
 excessive	JJ
 financial	JJ
-leveraging	NN
+leveraging	JJ
 ,	,
 actual	JJ
 legislation	NN
@@ -18669,7 +18669,7 @@ as	IN
 investors	NNS
 fled	VBN
 to	IN
-bluechip	JJ
+bluechip	NN
 Australian	JJ
 stocks	NNS
 and	CC
@@ -20194,7 +20194,7 @@ now	RB
 ,	,
 to	IN
 the	DT
-pre-trading	NN
+pre-trading	JJ
 declaration	NN
 of	IN
 Big	NNP
@@ -22243,7 +22243,7 @@ Jupiter	NNP
 .	.
 
 The	DT
-anti-defense	NN
+anti-defense	JJ
 Greens	NNS
 wanted	VBD
 a	DT
@@ -23189,7 +23189,7 @@ fiscal	JJ
 year	NN
 .	.
 
-Enjoying	VBG
+Enjoying	NNP
 several	JJ
 blockbuster	NN
 movie	NN
@@ -23523,7 +23523,7 @@ said	VBD
 it	PRP
 controls	VBZ
 2,720,675	CD
-Aristech	NNP
+Aristech	NN
 common	JJ
 shares	NNS
 ,	,
@@ -23727,7 +23727,7 @@ of	IN
 fine	JJ
 crystal	NN
 and	CC
-Wedgwood	JJ
+Wedgwood	NNP
 china	NN
 ,	,
 reported	VBD
@@ -25690,7 +25690,7 @@ market	NN
 
 Municipals	NNS
 
-Rebounding	NN
+Rebounding	NNP
 stocks	NNS
 and	CC
 weaker	JJR
@@ -28281,7 +28281,7 @@ then	RB
 ''	''
 says	VBZ
 an	DT
-Agfa	NN
+Agfa	NNP
 spokesman	NN
 .	.
 
@@ -30228,7 +30228,7 @@ manufacturing	NN
 industries	NNS
 ,	,
 the	DT
-M2	CD
+M2	NNP
 version	NN
 of	IN
 the	DT
@@ -32555,7 +32555,7 @@ $	$
 million	CD
 .	.
 
-Omnicare	NN
+Omnicare	NNP
 said	VBD
 it	PRP
 expects	VBZ
@@ -32650,7 +32650,7 @@ ended	VBN
 March	NNP
 31	CD
 ,	,
-Omnicare	NN
+Omnicare	NNP
 said	VBD
 .	.
 
@@ -36401,7 +36401,7 @@ Field	NNP
 in	IN
 the	DT
 southeast	NN
-Sumatra	NN
+Sumatra	NNP
 area	NN
 of	IN
 Indonesia	NNP
@@ -39578,7 +39578,7 @@ about	RB
 minutes	NNS
 and	CC
 then	RB
-steamed	VBD
+steamed	VBN
 forward	RP
 as	IN
 institutions	NNS
@@ -40456,7 +40456,7 @@ treating	VBG
 diabetes	NN
 .	.
 
-Delegates	NNS
+Delegates	NNP
 from	IN
 91	CD
 nations	NNS
