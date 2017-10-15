@@ -1518,8 +1518,8 @@ market	NN
 seems	VBZ
 to	TO
 be	VB
-straightening	JJ
-out	NN
+straightening	NN
+out	RB
 ;	:
 we	PRP
 're	VBP
@@ -2891,7 +2891,7 @@ second	JJ
 inning	NN
 ,	,
 and	CC
-homered	VBN
+homered	VBD
 for	IN
 his	PRP$
 team	NN
@@ -5557,7 +5557,7 @@ this	DT
 legislation	NN
 .	.
 
-Aides	IN
+Aides	VBZ
 both	DT
 in	IN
 the	DT
@@ -7929,7 +7929,7 @@ also	RB
 remain	VB
 classified	VBN
 as	IN
-non-accruing	NN
+non-accruing	VBG
 ,	,
 costing	VBG
 the	DT
@@ -12588,7 +12588,7 @@ new	JJ
 doctor	NN
 's	POS
 ``	``
-bedside	JJ
+bedside	NN
 ''	''
 extension	NN
 .	.
@@ -13496,8 +13496,8 @@ market	NN
 .	.
 
 Chicken	NNP
-Chains	NNP
-Ruffled	VBD
+Chains	VBZ
+Ruffled	VBN
 By	IN
 Loss	NN
 of	IN
@@ -15759,7 +15759,7 @@ And	CC
 Bills	NNS
 to	TO
 Make	VB
-Wishes	NNS
+Wishes	VBZ
 Come	VBN
 True	UH
 ''	''
@@ -16728,7 +16728,7 @@ taken	VBN
 to	TO
 confirm	VB
 the	DT
-anti-debt	JJ
+anti-debt	NN
 direction	NN
 of	IN
 regulators	NNS
@@ -18806,7 +18806,7 @@ the	DT
 Frankfurt	NNP
 market	NN
 's	POS
-steepest	JJS
+steepest	NN
 fall	NN
 ever	RB
 .	.
@@ -20194,7 +20194,7 @@ now	RB
 ,	,
 to	IN
 the	DT
-pre-trading	JJ
+pre-trading	NN
 declaration	NN
 of	IN
 Big	NNP
@@ -22243,7 +22243,7 @@ Jupiter	NNP
 .	.
 
 The	DT
-anti-defense	JJ
+anti-defense	NN
 Greens	NNS
 wanted	VBD
 a	DT
@@ -23189,7 +23189,7 @@ fiscal	JJ
 year	NN
 .	.
 
-Enjoying	NNP
+Enjoying	VBG
 several	JJ
 blockbuster	NN
 movie	NN
@@ -32555,7 +32555,7 @@ $	$
 million	CD
 .	.
 
-Omnicare	NNP
+Omnicare	NN
 said	VBD
 it	PRP
 expects	VBZ
@@ -33212,7 +33212,7 @@ businesses	NNS
 such	JJ
 as	IN
 McVities	NNP
-biscuits	NNP
+biscuits	NNS
 and	CC
 Terry	NNP
 's	POS
@@ -36019,7 +36019,7 @@ earnings	NNS
 to	IN
 $	$
 41.8	CD
-millon	CD
+millon	NN
 ,	,
 or	CC
 66	CD
