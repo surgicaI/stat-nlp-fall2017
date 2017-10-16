@@ -1060,7 +1060,7 @@ pay	VBP
 for	IN
 it	PRP
 ?	.
-"	''
+"	)
 
 Shojai	NNP
 told	VBD
@@ -1256,7 +1256,7 @@ National	NNP
 Guard	NNP
 on	IN
 a	DT
-"	JJ
+"	$
 60	CD
 Minutes	NNPS
 II	NNP
@@ -2909,7 +2909,7 @@ the	DT
 southern	JJ
 city	NN
 of	IN
-Tyre	NNP
+Tyre	NN
 was	VBD
 set	VBN
 for	IN
@@ -2972,7 +2972,7 @@ to	TO
 get	VB
 home	NN
 ,	,
-"	NNP
+"	IN
 Chahine	NNP
 told	VBD
 reporters	NNS
@@ -3913,8 +3913,8 @@ than	IN
 what	WP
 little	JJ
 Greece	NNP
-alone	JJ
-translates	NNS
+alone	RB
+translates	VBZ
 .	.
 
 The	DT
@@ -5464,7 +5464,7 @@ politics	NNS
 and	CC
 diplomacy	NN
 are	VBP
-childish	JJ
+childish	NN
 ,	,
 in	IN
 comparison	NN
@@ -7038,7 +7038,7 @@ you	PRP
 when	WRB
 you	PRP
 shout	VBP
-"	DT
+"	IN
 fire	NN
 "	NN
 in	IN
@@ -7065,7 +7065,7 @@ the	DT
 old	JJ
 -	HYPH
 fashioned	JJ
-dilemmas	NNS
+dilemmas	NN
 .	.
 
 But	CC
@@ -7870,7 +7870,7 @@ preventing	VBG
 new	JJ
 "	NN
 supplies	NNS
-"	.
+"	NN
 from	IN
 expanding	VBG
 the	DT
@@ -8958,7 +8958,7 @@ tide	NN
 will	MD
 turn	VB
 .	.
-"	''
+"	)
 
 [	IN
 Karzai	NNP
@@ -9125,9 +9125,9 @@ Pakistan	NNP
 Iran	NNP
 and	CC
 the	DT
-Central	JJ
-Asian	JJ
-Republics	NNS
+Central	NNP
+Asian	NNP
+Republics	NNP
 -	HYPH
 and	CC
 regional	JJ
@@ -9236,7 +9236,7 @@ they	PRP
 all	RB
 have	VBP
 their	PRP$
-favourite	JJ
+favourite	NN
 contenders	NNS
 in	IN
 Afghanistan	NNP
@@ -9949,7 +9949,7 @@ back	RP
 to	IN
 Kabul	NNP
 leading	VBG
-Taliban	JJ
+Taliban	NNP
 commanders	NNS
 ,	,
 who	WP
@@ -10134,7 +10134,7 @@ Pakistani	JJ
 delegation	NN
 in	IN
 the	DT
-tripartite	JJ
+tripartite	NN
 military	JJ
 meetings	NNS
 with	IN
@@ -10290,7 +10290,7 @@ that	IN
 he	PRP
 has	VBZ
 assured	VBN
-Musharraf	NN
+Musharraf	JJ
 repeatedly	RB
 that	IN
 any	DT
@@ -10358,8 +10358,8 @@ to	TO
 convince	VB
 presidential	JJ
 candidate	NN
-Younis	VBZ
-Qanooni	JJ
+Younis	NNP
+Qanooni	NNP
 to	TO
 strike	VB
 a	DT
@@ -10405,7 +10405,7 @@ as	IN
 his	PRP$
 fellow	JJ
 Panjsheri	NNP
-Tajiks	NNP
+Tajiks	NNS
 urged	VBD
 him	PRP
 to	TO
@@ -11127,7 +11127,7 @@ United	NNP
 States	NNPS
 he	PRP
 was	VBD
-"	DT
+"	RB
 forced	VBN
 "	NN
 into	IN
@@ -12964,7 +12964,7 @@ underwrite	VB
 any	DT
 arrangement	NN
 ,	,
-"	NNP
+"	IN
 Kalkat	NNP
 told	VBD
 IPS	NNP
@@ -13281,7 +13281,7 @@ Sri	NNP
 Lanka	NNP
 .	.
 
-"	DT
+"	NN
 Tamils	NNS
 feel	VBP
 that	IN
@@ -13596,7 +13596,7 @@ assassination	NN
 attempt	NN
 on	IN
 the	DT
-pro-India	JJ
+pro-India	NNP
 political	JJ
 leader	NN
 and	CC
@@ -14485,7 +14485,7 @@ assassination	NN
 attempt	NN
 on	IN
 the	DT
-pro-India	JJ
+pro-India	NNP
 political	JJ
 leader	NN
 and	CC
@@ -15105,7 +15105,7 @@ Sea	NNP
 coast	NN
 .	.
 
-Steady	NNP
+Steady	JJ
 buildup	NN
 
 The	DT
@@ -15525,7 +15525,7 @@ Jihad	NNP
 known	VBN
 as	IN
 the	DT
-Vanguards	NNS
+Vanguards	NNP
 of	IN
 Conquest	NNP
 .	.
@@ -15683,7 +15683,7 @@ Agency	NNP
 (	(
 "	NNP
 CIA	NNP
-"	.
+"	NN
 )	)
 report	VBP
 publicly	RB
@@ -15888,7 +15888,7 @@ likely	JJ
 to	TO
 face	VB
 .	.
-"	''
+"	)
 
 On	IN
 August	NNP
@@ -16930,7 +16930,7 @@ Jihad	NNP
 known	VBN
 as	IN
 the	DT
-Vanguards	NNS
+Vanguards	NNP
 of	IN
 Conquest	NNP
 .	.
@@ -17454,7 +17454,7 @@ of	IN
 Al	NNP
 Qaeda	NNP
 's	POS
-biochemical	JJ
+biochemical	NN
 program	NN
 .	.
 
@@ -19241,8 +19241,8 @@ the	DT
 Chalabi	NNP
 associate	NN
 "	IN
-Curveball	NNP
-"	NNP
+Curveball	NN
+"	NN
 ,	,
 which	WDT
 Alibek	NNP
@@ -20193,11 +20193,11 @@ Egyptian	JJ
 Al	NNP
 -	HYPH
 Gamaa	NNP
-al	NNP
+al	NN
 -	HYPH
-Islamiya	NNP
+Islamiya	NN
 (	(
-"	NNP
+"	IN
 Islamic	NNP
 Group	NNP
 "	NNP
@@ -20842,8 +20842,8 @@ abroad	RB
 establish	VB
 that	IN
 Zawahiri	NNP
-used	VBD
-"	DT
+used	VBN
+"	IN
 school	NN
 "	NN
 as	IN
@@ -20903,7 +20903,7 @@ Medicine	NNP
 Dale	NNP
 "	NN
 means	VBZ
-"	DT
+"	IN
 river	NN
 valley	NN
 .	.
@@ -21269,7 +21269,7 @@ security	NN
 Finally	RB
 ,	,
 the	DT
-"	NNP
+"	NN
 Hatfill	NNP
 theory	NN
 "	NN
@@ -21690,7 +21690,7 @@ a	DT
 few	JJ
 of	IN
 the	DT
-pic's	NNS
+pic's	VBZ
 .	.
 
 One	CD
@@ -21718,7 +21718,7 @@ screenshots	NNS
 of	IN
 two	CD
 beheading	NN
-video's	NNS
+video's	VBZ
 .	.
 
 Compare	VB
@@ -24207,8 +24207,8 @@ that	DT
 resistance	NN
 was	VBD
 the	DT
-only	RB
-commonsense	JJ
+only	JJ
+commonsense	NN
 solution	NN
 .	.
 
@@ -24405,9 +24405,9 @@ governments	NNS
 .	.
 
 I	PRP
-concur	NN
+concur	VBP
 that	IN
-Ba'athists	NNP
+Ba'athists	NNS
 and	CC
 former	JJ
 security	NN

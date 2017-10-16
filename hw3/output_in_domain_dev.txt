@@ -7204,7 +7204,7 @@ of	IN
 West	NNP
 Germany	NNP
 's	POS
-bluest	JJ
+bluest	NN
 chips	NNS
 took	VBD
 some	DT
@@ -11042,7 +11042,7 @@ by	IN
 the	DT
 boards	NNS
 of	IN
-Seafirst	NNP
+Seafirst	JJ
 and	CC
 its	PRP$
 parent	NN
@@ -12336,7 +12336,7 @@ for	IN
 the	DT
 minor	JJ
 league	NN
-Bluefield	NN
+Bluefield	NNP
 ,	,
 Va.	NNP
 ,	,
@@ -12588,7 +12588,7 @@ new	JJ
 doctor	NN
 's	POS
 ``	``
-bedside	JJ
+bedside	NN
 ''	''
 extension	NN
 .	.
@@ -12760,9 +12760,9 @@ months	NNS
 painted	VBN
 walls	NNS
 ,	,
-polished	JJ
+polished	VBN
 and	CC
-carpeted	JJ
+carpeted	VBN
 floors	NNS
 ,	,
 bought	VBD
@@ -13925,7 +13925,7 @@ Spots	NNS
 
 CALL	NNP
 IT	PRP
-un-advertising	NN
+un-advertising	JJ
 .	.
 
 Pittsburgh	NNP
@@ -14541,7 +14541,7 @@ according	VBG
 to	IN
 Video	NNP
 Storyboard	NNP
-Tests	NNP
+Tests	NNS
 ,	,
 New	NNP
 York	NNP
@@ -15892,7 +15892,7 @@ process	NN
 of	IN
 convening	VBG
 the	DT
-intergovernmental	NN
+intergovernmental	JJ
 conference	NN
 does	VBZ
 n't	RB
@@ -15965,7 +15965,7 @@ Helmut	NNP
 Kohl	NNP
 .	.
 
-Diplomatic	NNP
+Diplomatic	JJ
 sources	NNS
 said	VBD
 Mr.	NNP
@@ -17059,7 +17059,7 @@ Street	NNP
 regarding	VBG
 excessive	JJ
 financial	JJ
-leveraging	JJ
+leveraging	NN
 ,	,
 actual	JJ
 legislation	NN
@@ -20370,7 +20370,7 @@ keeping	VBG
 the	DT
 market	NN
 orderly	JJ
-groped	VBD
+groped	VBN
 to	TO
 find	VB
 buy	NN
@@ -23523,7 +23523,7 @@ said	VBD
 it	PRP
 controls	VBZ
 2,720,675	CD
-Aristech	NN
+Aristech	NNP
 common	JJ
 shares	NNS
 ,	,
@@ -32607,7 +32607,7 @@ $	$
 million	CD
 .	.
 
-Omnicare	NN
+Omnicare	NNP
 said	VBD
 the	DT
 division	NN

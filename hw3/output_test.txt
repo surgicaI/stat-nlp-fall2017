@@ -307,7 +307,7 @@ join	VB
 the	DT
 chorus	NN
 of	IN
-annoyance	NN
+annoyance	NNP
 over	IN
 Google	NNP
 's	POS
@@ -1278,7 +1278,7 @@ who	WP
 I	PRP
 am	VBP
 .	.
-"	''
+"	)
 
 But	CC
 then	RB
@@ -1620,7 +1620,7 @@ consensus	NN
 fiction	NN
 of	IN
 the	DT
-"	NNP
+"	NN
 War	NNP
 on	IN
 Terror	NN
@@ -1888,7 +1888,7 @@ C	NNP
 -	HYPH
 4	CD
 to	IN
-Quaddaffi	NN
+Quaddaffi	NNP
 .	.
 
 The	DT
@@ -2329,8 +2329,8 @@ have	VBP
 a	DT
 similar	JJ
 case	NN
-unravelling	NN
-up	RB
+unravelling	VBG
+up	RP
 here	RB
 in	IN
 the	DT
@@ -2520,7 +2520,7 @@ out	RP
 :	:
 los	NN
 angeles	NNS
-online	NN
+online	VBP
 dating	VBG
 
 This	DT
@@ -2716,8 +2716,8 @@ HAVE	NNP
 To	TO
 Follow	VB
 The	DT
-Easy	JJ
-Instructions	NNS
+Easy	NNP
+Instructions	NNP
 Provided	VBD
 To	IN
 You	PRP
@@ -3169,8 +3169,8 @@ Iraqi	JJ
 forces	NNS
 were	VBD
 re-routed	VBN
-to	IN
-al	JJ
+to	TO
+al	NN
 -	HYPH
 Qaeda	NNP
 .	.
@@ -3307,7 +3307,7 @@ n't	RB
 just	RB
 "	PRP
 vanish	VBP
-"	NN
+"	RB
 ;	:
 not	RB
 when	WRB
@@ -3540,7 +3540,7 @@ to	IN
 God	NNP
 himself	PRP
 .	.
-"	''
+"	)
 
 After	IN
 the	DT
@@ -4325,10 +4325,10 @@ one	NN
 Loose	NNP
 '	POS
 200,000	CD
-AK47's	NNS
+AK47's	NNP
 ?	.
 
-"	CC
+"	IN
 There	EX
 's	VBZ
 no	DT
@@ -4566,7 +4566,7 @@ Warren	NNP
 Jeffs	NNP
 cult	NN
 he	PRP
-reassigns	VBZ
+reassigns	NN
 wives	NNS
 if	IN
 the	DT
@@ -5408,7 +5408,7 @@ like	IN
 that	DT
 .	.
 
-http://www.laweekly.com/general/features/satan-loves-you/13454/	JJ
+http://www.laweekly.com/general/features/satan-loves-you/13454/	NN
 
 "	IN
 Another	DT
@@ -5648,7 +5648,7 @@ bearing	VBG
 the	DT
 message	NN
 ,	,
-"	CC
+"	MD
 Kill	VB
 your	PRP$
 parents	NNS
@@ -5658,7 +5658,7 @@ parents	NNS
 And	CC
 were	VBD
 the	DT
-Columbine	NNP
+Columbine	NN
 killers	NNS
 acting	VBG
 out	RP
@@ -5732,7 +5732,7 @@ indeed	RB
 I	PRP
 detect	VBP
 the	DT
-hissing	JJ
+hissing	VBG
 lisp	NN
 of	IN
 the	DT
@@ -5744,7 +5744,7 @@ article	NN
 .	.
 
 The	DT
-deathly	JJ
+deathly	NN
 inversion	NN
 of	IN
 truth	NN
@@ -5996,7 +5996,7 @@ new	JJ
 ,	,
 marvelous	JJ
 ,	,
-intoxicating	NN
+intoxicating	VBG
 .	.
 
 -	HYPH
@@ -6318,7 +6318,7 @@ black	JJ
 metal	NN
 ,	,
 music	NN
-obsessed	VBD
+obsessed	VBN
 with	IN
 images	NNS
 of	IN
@@ -6724,7 +6724,7 @@ black	JJ
 metal	NN
 ,	,
 music	NN
-obsessed	VBD
+obsessed	VBN
 with	IN
 images	NNS
 of	IN
@@ -6806,7 +6806,7 @@ street	NN
 
 The	DT
 German	JJ
-Expressionist	NN
+Expressionist	NNP
 movement	NN
 was	VBD
 destroyed	VBN
@@ -7137,7 +7137,7 @@ information	NN
 
 http://en.wikipedia.org/wiki/John_Balance	NNP
 
-http://www.guardian.co.uk/obituaries/story/0,3604,1371372,00.html	NNS
+http://www.guardian.co.uk/obituaries/story/0,3604,1371372,00.html	NN
 
 Balance	NNP
 died	VBD
@@ -7181,8 +7181,8 @@ designed	VBN
 to	TO
 have	VB
 a	DT
-functionally	JJ
-transcendent	NN
+functionally	RB
+transcendent	JJ
 effect	NN
 on	IN
 listeners	NNS
@@ -7808,7 +7808,7 @@ be	VB
 a	DT
 process	NN
 of	IN
-alchemical	JJ
+alchemical	NN
 appropriation	NN
 ?	.
 
@@ -7967,7 +7967,7 @@ real	JJ
 problem	NN
 is	VBZ
 with	IN
-literalist	JJ
+literalist	NN
 fundamentalists	NNS
 ,	,
 of	IN
@@ -8102,7 +8102,7 @@ ye	RB
 know	VB
 them	PRP
 .	.
-"	''
+"	)
 
 I	PRP
 do	VBP
@@ -9452,7 +9452,7 @@ and	CC
 building	VBG
 the	DT
 best	JJS
-nukes	VBZ
+nukes	NNS
 the	DT
 world	NN
 's	POS
@@ -9771,7 +9771,7 @@ What	WP
 do	VBP
 the	DT
 new	JJ
-al	JJ
+al	NN
 -	HYPH
 Qaeda	NNP
 videotape	NN
@@ -9820,7 +9820,7 @@ of	IN
 the	DT
 top	JJ
 25	CD
-al	JJ
+al	NN
 -	HYPH
 Qaeda	NNP
 commanders	NNS
@@ -10006,9 +10006,9 @@ shelters	NNS
 Bin	IN
 Laden	NNP
 and	CC
-al	JJ
+al	NNP
 -	HYPH
-Zawahiri	NN
+Zawahiri	NNP
 ,	,
 and	CC
 is	VBZ
@@ -10033,7 +10033,7 @@ al	JJ
 Qaeda	NNP
 can	MD
 kill	VB
-Musharraf	NN
+Musharraf	NNP
 or	CC
 instigate	VB
 a	DT
@@ -10145,7 +10145,7 @@ hand	NN
 it	PRP
 should	MD
 pressure	VB
-Musharraf	JJ
+Musharraf	NNP
 to	TO
 take	VB
 off	RP
@@ -11044,7 +11044,7 @@ they	PRP
 briefly	RB
 arrested	VBN
 a	DT
-yound	NN
+yound	JJ
 newlywed	JJ
 bride	NN
 .	.
@@ -11195,7 +11195,7 @@ Iraq	NNP
 Ash	NNP
 -	HYPH
 Sharq	NNP
-al	JJ
+al	NN
 -	HYPH
 Awsat	NN
 reports	NNS
@@ -12909,7 +12909,7 @@ themselves	PRP
 They	PRP
 have	VBP
 also	RB
-reestablished	VBN
+reestablished	VB
 their	PRP$
 historical	JJ
 links	NNS
@@ -13419,7 +13419,7 @@ Bill	NNP
 Clinton	NNP
 says	VBZ
 Bush	NNP
-"	NNP
+"	NN
 should	MD
 ,	,
 and	CC
@@ -13710,7 +13710,7 @@ as	IN
 good	JJ
 news	NN
 ,	,
-"	NNP
+"	IN
 Gore	NNP
 said	VBD
 .	.
@@ -14658,9 +14658,9 @@ Afghanistan	NNP
 
 (	(
 What	WP
-about	IN
+about	RB
 40	CD
-al	JJ
+al	NN
 -	HYPH
 Qaeda	NNP
 bases	NNS
@@ -15496,7 +15496,7 @@ commanded	VBD
 his	PRP$
 cabinet	NN
 ,	,
-"	CC
+"	MD
 Let	VB
 heads	NNS
 roll	NN
@@ -15646,7 +15646,7 @@ slowest	JJS
 to	TO
 recover	VB
 .	.
-"	''
+"	)
 
 That	DT
 he	PRP
@@ -16068,7 +16068,7 @@ Worker	NNP
 He	PRP
 would	MD
 wear	VB
-khaki	NN
+khaki	JJ
 trousers	NNS
 and	CC
 some	DT
@@ -17167,8 +17167,8 @@ War	NNP
 al	NNP
 -	HYPH
 Tawhid	NNP
-wa	DT
-al	JJ
+wa	NN
+al	NN
 -	HYPH
 Jihad	NNP
 )	)
@@ -17443,7 +17443,7 @@ the	DT
 al	JJ
 -	HYPH
 Jihad	NNP
-al	JJ
+al	NN
 -	HYPH
 Islami	NN
 group	NN
@@ -17472,7 +17472,7 @@ After	IN
 that	DT
 point	NN
 ,	,
-al	JJ
+al	NNP
 -	HYPH
 Qaeda	NNP
 was	VBD
@@ -18854,7 +18854,7 @@ years	NNS
 to	TO
 come	VB
 .	.
-]	''
+]	)
 
 DPA	NNP
 :	:
@@ -19648,7 +19648,7 @@ Iraqis	NNS
 Al	NNP
 -	HYPH
 Sharq	NNP
-al	JJ
+al	NN
 -	HYPH
 Awsat	NN
 reports	NNS
@@ -20329,7 +20329,7 @@ http://www.collectinghistory.net/chernobyl/	NN
 
 http://www.ukrainianweb.com/chernobyl_ukraine.htm	NN
 
-http://www.bullatomsci.org/issues/1993/s93/s93Marples.html	NNS
+http://www.bullatomsci.org/issues/1993/s93/s93Marples.html	NN
 
 http://www.calguard.ca.gov/ia/Chernobyl-15%20years.htm	NN
 
@@ -20670,7 +20670,7 @@ mode	NN
 They	PRP
 have	VBP
 acquired	VBN
-Urchin	NN
+Urchin	NNP
 ,	,
 Zipdash	NN
 ,	,
@@ -20943,7 +20943,7 @@ community	NN
 
 Posted	VBN
 by	IN
-darin	IN
+darin	NN
 
 Ben	NNP
 made	VBD
@@ -21267,7 +21267,7 @@ voice	NN
 will	MD
 be	VB
 heard	VBN
-admidst	IN
+admidst	NN
 the	DT
 higher	JJR
 echelons	NNS
@@ -21319,7 +21319,7 @@ makes	VBZ
 sense	NN
 .	.
 
-Acquiring	NNP
+Acquiring	VBG
 open	JJ
 source	NN
 talent	NN
