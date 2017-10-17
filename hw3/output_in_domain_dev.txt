@@ -451,7 +451,7 @@ other	JJ
 debt	NN
 ,	,
 and	CC
-subtracting	NN
+subtracting	VBG
 from	IN
 it	PRP
 the	DT
@@ -1181,7 +1181,7 @@ particularly	RB
 bullish	JJ
 .	.
 
-Taped	NNP
+Taped	VBN
 just	RB
 as	IN
 the	DT
@@ -1357,7 +1357,7 @@ revisited	VBN
 With	IN
 the	DT
 market	NN
-fluctuating	NN
+fluctuating	VBG
 and	CC
 then	RB
 closing	VBG
@@ -1942,8 +1942,8 @@ mean	NN
 ,	,
 and	CC
 the	DT
-mean	JJ
-ol'	NN
+mean	NN
+ol'	POS
 law	NN
 caught	VBN
 up	RP
@@ -2452,7 +2452,7 @@ it	PRP
 dives	VBZ
 beneath	IN
 the	DT
-lunging	NN
+lunging	VBG
 bat	NN
 .	.
 
@@ -2767,7 +2767,7 @@ New	NNP
 York	NNP
 Yankees	NNPS
 -	HYPH
-Mets	NNS
+Mets	NNPS
 series	NN
 ,	,
 or	CC
@@ -4660,7 +4660,7 @@ break	NN
 .	.
 
 ``	``
-Fundamentally	NNP
+Fundamentally	RB
 dangerous	JJ
 ...	:
 ,	,
@@ -5576,8 +5576,8 @@ AMR	NNP
 is	VBZ
 n't	RB
 likely	JJ
-to	IN
-deflate	JJ
+to	TO
+deflate	VB
 efforts	NNS
 to	TO
 push	VB
@@ -7204,7 +7204,7 @@ of	IN
 West	NNP
 Germany	NNP
 's	POS
-bluest	NN
+bluest	JJS
 chips	NNS
 took	VBD
 some	DT
@@ -7929,7 +7929,7 @@ also	RB
 remain	VB
 classified	VBN
 as	IN
-non-accruing	JJ
+non-accruing	VBG
 ,	,
 costing	VBG
 the	DT
@@ -9918,7 +9918,7 @@ lips	NNS
 
 --	:
 Dick	NNP
-Emmons	NNS
+Emmons	NNPS
 .	.
 
 BancOklahoma	NNP
@@ -11042,7 +11042,7 @@ by	IN
 the	DT
 boards	NNS
 of	IN
-Seafirst	NNP
+Seafirst	JJ
 and	CC
 its	PRP$
 parent	NN
@@ -12336,7 +12336,7 @@ for	IN
 the	DT
 minor	JJ
 league	NN
-Bluefield	NN
+Bluefield	NNP
 ,	,
 Va.	NNP
 ,	,
@@ -12419,8 +12419,8 @@ trouble	NN
 began	VBD
 .	.
 
-More	JJR
-taunting	NN
+More	RBR
+taunting	JJ
 in	IN
 the	DT
 parking	NN
@@ -12760,9 +12760,9 @@ months	NNS
 painted	VBN
 walls	NNS
 ,	,
-polished	JJ
+polished	VBN
 and	CC
-carpeted	JJ
+carpeted	VBN
 floors	NNS
 ,	,
 bought	VBD
@@ -13007,7 +13007,7 @@ real	JJ
 -	HYPH
 estate	NN
 values	NNS
-depreciated	JJ
+depreciated	VBN
 ,	,
 the	DT
 council	NN
@@ -14541,7 +14541,7 @@ according	VBG
 to	IN
 Video	NNP
 Storyboard	NNP
-Tests	NNP
+Tests	NNPS
 ,	,
 New	NNP
 York	NNP
@@ -16311,7 +16311,7 @@ deal	NN
 ''	''
 stocks	NNS
 are	VBP
-jeopardized	JJ
+jeopardized	VBN
 by	IN
 the	DT
 unexpected	JJ
@@ -17059,7 +17059,7 @@ Street	NNP
 regarding	VBG
 excessive	JJ
 financial	JJ
-leveraging	NN
+leveraging	JJ
 ,	,
 actual	JJ
 legislation	NN
@@ -18181,7 +18181,7 @@ falling	VBG
 and	CC
 Singapore	NNP
 's	POS
-Straits	NNP
+Straits	NNPS
 Times	NNP
 Industrial	NNP
 Index	NNP
@@ -18667,9 +18667,9 @@ like	JJ
 ''	''
 as	IN
 investors	NNS
-fled	VBN
-to	IN
-bluechip	JJ
+fled	VBD
+to	TO
+bluechip	VB
 Australian	JJ
 stocks	NNS
 and	CC
@@ -18806,7 +18806,7 @@ the	DT
 Frankfurt	NNP
 market	NN
 's	POS
-steepest	NN
+steepest	JJS
 fall	NN
 ever	RB
 .	.
@@ -20177,7 +20177,7 @@ anyone	NN
 left	VBD
 the	DT
 place	NN
-whistling	NN
+whistling	VBG
 Dixie	NNP
 .	.
 ''	''
@@ -20370,7 +20370,7 @@ keeping	VBG
 the	DT
 market	NN
 orderly	JJ
-groped	VBD
+groped	VBN
 to	TO
 find	VB
 buy	NN
@@ -21064,7 +21064,7 @@ shares	NNS
 ``	``
 It	PRP
 was	VBD
-bedlam	NN
+bedlam	VBN
 on	IN
 the	DT
 upside	NN
@@ -25690,7 +25690,7 @@ market	NN
 
 Municipals	NNS
 
-Rebounding	NNP
+Rebounding	VBG
 stocks	NNS
 and	CC
 weaker	JJR
@@ -28068,7 +28068,7 @@ scrambling	VBG
 to	TO
 tap	VB
 the	DT
-resurging	NN
+resurging	VBG
 market	NN
 ,	,
 reviving	VBG
@@ -28384,7 +28384,7 @@ who	WP
 grew	VBD
 up	RP
 being	VBG
-photographed	NN
+photographed	VBN
 in	IN
 color	NN
 ,	,
@@ -30228,7 +30228,7 @@ manufacturing	NN
 industries	NNS
 ,	,
 the	DT
-M2	NNP
+M2	CD
 version	NN
 of	IN
 the	DT
@@ -32228,7 +32228,7 @@ days.	NN
 ,	,
 standard	JJ
 conventional	JJ
-fixedrate	NN
+fixedrate	JJ
 mortgages	NNS
 ;	:
 7.875	CD
@@ -32607,7 +32607,7 @@ $	$
 million	CD
 .	.
 
-Omnicare	NN
+Omnicare	NNP
 said	VBD
 the	DT
 division	NN
@@ -33212,7 +33212,7 @@ businesses	NNS
 such	JJ
 as	IN
 McVities	NNP
-biscuits	NNS
+biscuits	NNPS
 and	CC
 Terry	NNP
 's	POS
@@ -36401,7 +36401,7 @@ Field	NNP
 in	IN
 the	DT
 southeast	NN
-Sumatra	NN
+Sumatra	NNP
 area	NN
 of	IN
 Indonesia	NNP
@@ -39244,7 +39244,7 @@ shares	NNS
 ``	``
 It	PRP
 was	VBD
-bedlam	NN
+bedlam	VBN
 on	IN
 the	DT
 upside	NN
@@ -39578,7 +39578,7 @@ about	RB
 minutes	NNS
 and	CC
 then	RB
-steamed	VBD
+steamed	VBN
 forward	RP
 as	IN
 institutions	NNS
