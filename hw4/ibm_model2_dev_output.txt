@@ -46,30 +46,30 @@ Alignment:
 [#]                                                                                 | chacun
    ( ) #                                                                            | en
       ( )       #                                                                   | lui
-      ( )                                                    #                      | -
+      (#)                                                                           | -
       ( )                                  #                                        | même
          [ ]                            #                                           | est
             [#]                                                                     | très
                [#]                                                                  | complexe
-                      #                                                             | et
+                #                                                                   | et
                         [#]                                                         | le
                            [#]                                                      | lien
                               [#]                                                   | entre
-                                 [ ]                   #                            | les
+                                 [#]                                                | les
                                     [#]                                             | deux
                                   #             ( )                                 | le
                                        [#]                                          | est
-                                          ( )                               #       | encore
+                                          (#)                                       | encore
                                              ( )(#)                                 | davantage
-                                                   ( )                              | de
-                                                   ( )                         #    | sorte
+                                                   ( )             #                | de
+                                                 # ( )                              | sorte
                                                    ( )                #             | que
                                                                   [#]               | pour
-                                                                     ( )( )    #    | beaucoup
+                                                                     ( )( ) #       | beaucoup
                                                          [ ]          #             | la
                                                                [#]                  | situation
-                                                                               #    | présente
-                                        #             ( )                     ( )   | est
+                                                                            #       | présente
+                                                      ( )                     (#)   | est
                                                       ( )                     (#)   | confuse
                                                                                  [#]| .
 ------------------------------------------------------------------------------------'
@@ -94,7 +94,7 @@ Alignment:
 ( )( )( )(#)   | la
 ( )(#)( )( )   | lecture
 ( )( )( )( )   | de
-( )(#)( )( )   | les
+( )( )( )( )   | les
 ( )(#)( )( )   | recommandations
 ( )( )( )( )   | de
 [ ]( )( )( )   | les
@@ -167,15 +167,15 @@ Alignment:
 ( )      ( )( ) #                [ ]                  | légal
 ( )      ( )( )                #                      | ,
                          #          [ ]( )( )( )( )   | à
-                      #             ( )[ ]( )( )( )   | toutes
-                                    ( )( )( )( )(#)   | fins
-                                    ( )( )(#)( )( )   | utiles
+                               #    ( )[ ]( )( )( )   | toutes
+                      #             ( )( )( )( )( )   | fins
+                               #    ( )( )( )( )( )   | utiles
                                #                      | ,
       [ ]                                             | le
          ( )( )( )                         #          | commerce
                   ( )( )                   #          | sexuel
                         [ ]                #          | dans
-                           [#]                        | nos
+                           [ ]             #          | nos
                               [#]                     | rues
                                                    [#]| .
 ------------------------------------------------------'
@@ -196,13 +196,13 @@ Alignment:
                [#]                                                         | C
                   [#]                                                      | -
                      [#]                                                   | 49
-                                     #                                     | ,
+                                                                           | ,
 ( )( )( )( )                                                               | de
 [ ]( )( )( )          #                                                    | la
 ( )(#)( )( )                                                               | façon
 ( )(#)( )[ ]                                                               | dont
                                               #                            | il
-                        ( )(#)( )                                          | est
+                        ( )( )( )             #                            | est
                         ( )( )(#)                                          | présenté
                                  [#]                                       | aujourd'
                                  [#]                                       | hui
@@ -235,10 +235,10 @@ Alignment:
 Alignment:
 [#]                                 | je
    [#]                              | ne
- #    ( )                           | ai
+      (#)                           | ai
    [#]                              | jamais
       ( )       #                   | rencontré
-         [#]                        | une
+         [ ] #                      | une
                 #                   | seule
                [#]                  | prostituée
             ( )                     | de
@@ -262,10 +262,10 @@ Alignment:
  #                                  ( )                           | le
                                           [#]                     | 28
                                        [#]                        | juin
-                                             [#]                  | ,
+    #                                        [ ]                  | ,
              #                                                    | je
-                                                 #                | ai
-                                                 #                | eu
+             #                                                    | ai
+                      #                                           | eu
           #                                                       | le
                                                  #                | grand
                                                  #                | plaisir
@@ -310,7 +310,7 @@ Alignment:
                            [ ]    #             | créatrice
                               [#]               | ,
                                  (#)            | dynamique
-                                           #    | et
+                                        #       | et
                                     [ ]    #    | efficace
                                              [#]| .
 ------------------------------------------------'
@@ -326,7 +326,7 @@ Alignment:
                                   e             
 
 Alignment:
-( )( )          #                                              | jusque
+( )(#)                                                         | jusque
 ( )( )          #                                              | ici
       [#]                                                      | ,
          ( )    #                                              | près
@@ -338,7 +338,7 @@ Alignment:
                 #       ( )                                    | octroyés
                            [#]                                 | par
                               [#]                        ( )   | le
-                         #       [ ]                           | institut
+                                 [#]                           | institut
                             #       [ ]                        | en
                                        [#]                     | subventions
                                      #    ( )                  | à
@@ -367,7 +367,7 @@ Alignment:
                                   e                    n       
 
 Alignment:
-( )( ) #    | permettez
+(#)( )      | permettez
 (#)( )      | -
 ( )(#)      | moi
       ( )   | de
@@ -384,7 +384,7 @@ Alignment:
        e    
 
 Alignment:
-( )( )( )( )                                     #                            | il
+( )(#)( )( )                                                                  | il
 ( )( )( )( )                   #                                              | faudrait
             ( )( )( )(#)( )                                                   | examiner
             ( )( )( )( )( )    #                                              | sérieusement
@@ -425,14 +425,14 @@ Alignment:
 
 Alignment:
  #    ( )( )( )( )( )( )                                    | il
-      ( )( )( )( )( )( )       #                            | y
+      ( )(#)( )( )( )( )                                    | y
       ( )( )( )( )( )( )                #                   | a
       ( )(#)( )( )( )( )                                    | lieu
 [#]                                                         | cependant
       ( )( )(#)( )( )( )                                    | de
       ( )( )( )( )(#)( )                                    | se
       ( )( )( )( )(#)( )                                    | interroger
-                   #                                        | sur
+                         #                                  | sur
                             #                               | le
                                      #                      | avenir
                         ( )                #                | en
@@ -441,13 +441,13 @@ Alignment:
                            [ ]( )( )( )                     | les
                            ( )( )( )(#)                     | mesures
                            ( )( )( )( )                     | de
-                           ( )( )( )(#)                     | austérité
+                           ( )( )( )( )                #    | austérité
                                        [ ]             #    | annoncées
-       #                                           ( )      | ce
+                                                   ( ) #    | ce
                                                       [#]   | printemps
                                           [#]               | dans
                                              [ ]            | le
-                                                [ ]    #    | budget
+                                                [#]         | budget
                                                          [#]| .
 ------------------------------------------------------------'
  h  ,  t  r  s  v  p  q  g  t  c  -  b  a  i  t  B  l  s  . 
@@ -463,7 +463,7 @@ Alignment:
 Alignment:
       [#]                                 | le
          ( )(#)                           | droit
-         ( )( )       #                   | de
+         ( )( )                   #       | de
          (#)( )                           | permis
                (#)( )                     | passe
           #                               | donc
@@ -491,16 +491,16 @@ Alignment:
           #    [ ]                                          | de
                   [#]                                       | dire
                      [#]                                    | que
- #                            ( )( )( )( )                  | il
-                              ( )( )( )(#)                  | faut
+                              (#)( )( )( )                  | il
+                            # ( )( )( )( )                  | faut
                             # ( )( )( )( )                  | appliquer
                         [#]                                 | ces
                            [#]                              | sanctions
-                                  #       ( )( )            | à
-                                          ( )( )            | le
+                                     #    ( )( )            | à
+                                        # ( )( )            | le
                                           (#)( )            | lieu
                                           ( )( )            | de
-                                                   [#]      | les
+                                                 # [ ]      | les
                                                 ( )    #    | rendre
                                                       [#]   | facultatives
                                                          [#]| .
@@ -518,7 +518,7 @@ Alignment:
 Alignment:
 [#]                                    | nous
    [#]( )                              | devons
-      ( )( )          #                | mettre
+      ( )(#)                           | mettre
       (#)( )                           | à
       ( )( )                           | le
       ( )( ) #                         | point
@@ -550,9 +550,9 @@ Alignment:
 
 Alignment:
 ( )( )( )( )(#)                           | Rendons
-( )( )( )( )(#)                           | grâce
+( )( )(#)( )( )                           | grâce
 ( )( )(#)( )( )                           | à
-( )( )(#)( )( )                           | le
+( )( )( )( )( )                           | le
 ( )( )( )( )(#)                           | ciel
                ( )( )( )( )( )( )( )( )   | de
              # ( )( )( )( )( )( )( )( )   | vivre
@@ -560,7 +560,7 @@ Alignment:
              # ( )( )( )( )( )( )( )( )   | toute
                ( )( )( )( )( )( )(#)( )   | sécurité
                ( )( )( )( )( )(#)( )( )   | dans
-          #    ( )( )( )( )( )( )( )( )   | notre
+               ( )( )( )( )( )( )( )(#)   | notre
                ( )( )( )( )( )( )( )[#]   | pays
                                        [#]| .
 ------------------------------------------'
@@ -610,19 +610,19 @@ Alignment:
                      (#)                              | gagne
                         [#]                           | $
                       #    [ ]                        | 35,000
-                            #                         | ,
+                                                      | ,
                       #       ( )                     | lorsque
                                  [#]                  | le
                       #             [ ]               | homme
                                        [#]            | et
                                   #       ( )         | la
-                                          [#]         | femme
-                                     #          [ ]   | travaillent
+                            #             [ ]         | femme
+                            #                   [ ]   | travaillent
                                      #       ( )      | tous
                                              ( )      | les
                                              (#)      | deux
                                                       | ,
-( )( )( )( )                #                         | cela
+( )( )( )( )                               #          | cela
 ( )( )( )( )                #                         | veut
 ( )( )( )( )                               #          | dire
 [ ]( )( )( )                         #                | quoi
@@ -638,16 +638,16 @@ Alignment:
 
 Alignment:
 ( )( )( )( )(#)( )   ( )( )( )                           | il
-( )(#)( )( )( )( )   ( )( )( )                           | est
-( )( )( )( )( )( )   ( )( )( )          #                | donc
-( )( )( )( )( )(#)   ( )( )( )                           | essentiel
+( )( )( )( )( )(#)   ( )( )( )                           | est
+( )( )( )( )( )(#)   ( )( )( )                           | donc
+( )( )( )(#)( )( )   ( )( )( )                           | essentiel
                   [#]                                    | que
                      ( )( )( )( )[#]( )( )( )            | cette
                      ( )( )( )( )( )[#]( )( )            | question
-                     ( )( )( )( )( )( )(#)( )( )( )      | fasse
+                     ( )( )( )(#)( )( )( )( )( )( )      | fasse
                      ( )( )( )( )( )( )( )( )( )( )      | le
                      ( )( )( )(#)( )( )( )( )( )( )      | objet
-                     ( )( )( )( )( )( )( )( )( )( )      | de
+                     ( )( )(#)( )( )( )( )( )( )( )      | de
                               ( )      ( )( )[#]( )      | un
                               ( )      ( )( )( )[#]      | vote
                                                    [#]   | aujourd'
@@ -676,7 +676,7 @@ Alignment:
                                        [#]         | en
                                           ( )[#]   | Colombie
                                           (#)( )   | -
-                                          [#]( )   | Britannique
+                                          [ ](#)   | Britannique
                                                 [#]| .
 ---------------------------------------------------'
  t  P  M  a  t  C  d  n  w  t  s  t  m  i  B  C  . 
@@ -689,7 +689,7 @@ Alignment:
        r                                      a    
 
 Alignment:
-( )          #    | les
+( )    #          | les
 ( )    #          | enfants
    ( ) #          | ont
    (#)            | besoin
@@ -715,7 +715,7 @@ Alignment:
              t    
 
 Alignment:
-   (#)( )( )( )( )( )( )( )                        | elle
+ # ( )( )( )( )( )( )( )( )                        | elle
    ( )( )(#)( )( )( )( )( )                        | ne
    ( )(#)( )( )( )( )( )( )                        | est
 ( )( )( )( )( )( )(#)( )( )                        | assurément
@@ -749,9 +749,9 @@ Alignment:
          ( )(#)( )( )( )( )( )( )                                          | donne
          ( )( )( )( )(#)( )( )( )                                          | une
          ( )(#)( )( )( )( )( )( )                                          | bonne
-    #    ( )( )( )( )( )( )( )( )                                          | idée
+         ( )(#)( )( )( )( )( )( )                                          | idée
                                  ( )( )( )( )( )( )                        | de
-                                 ( )( )( )[ ]( )(#)                        | les
+                                 ( )( )( )[ ]( )( )                        | les
                                  ( )( )( )( )[#]( )                        | principes
                                  ( )(#)( )( )( )( )                        | à
                                  ( )( )( )( )(#)( )                        | retenir
@@ -786,8 +786,8 @@ Alignment:
 [#]                     | cependant
    [#]                  | ,
       (#)( )( )( )( )   | il
-      ( )( )(#)( )( )   | ne
-      ( )( )( )( )(#)   | a
+      ( )(#)( )( )( )   | ne
+      ( )(#)( )( )( )   | a
       ( )( )( )( )(#)   | encore
       ( )( )( )( )(#)   | rien
       ( )( )( )( )(#)   | fait
@@ -807,14 +807,14 @@ Alignment:
 
 Alignment:
 [#]                                                      | nous
-   [ ][ ]                            #                   | aurons
+   [#][ ]                                                | aurons
     #    ( )( )      ( )                                 | fait
                ( )(#)                                    | tellement
                ( )( )                                    | de
-         ( )( )      ( )             #                   | concessions
-                        [ ]             #                | que
+         ( )( )      (#)                                 | concessions
+                        [#]                              | que
                            [#]                           | nous
-                              [ ][ ] #                   | serons
+                      #       [ ][ ]                     | serons
                    #                [ ]                  | plus
                                     [#]                  | affaiblis
                          #             [ ]               | que
@@ -842,14 +842,14 @@ Alignment:
             ( )( ) #                                                 | sera
                   [ ]       #                                        | illégal
                                        [ ]                           | de
-                                          [#]                        | demander
+                            #             [ ]                        | demander
                                #          ( )( )                     | à
                                   #          [ ]                     | un
                                      #          [ ]                  | chauffeur
                                                                      | de
                                     [#]                              | taxi
                                                    [#]               | comment
-                            #                         ( )[ ]         | contacter
+                                                      ( )[ ]    #    | contacter
                                                             [#]      | une
                                                                [#]   | prostituée
                                                                   [#]| .
@@ -869,11 +869,11 @@ Alignment:
 [#]                                                         | si
    [#]                                                      | elles
          [#]                                                | ne
-      [ ]                            #                      | pouvaient
+      [#]                                                   | pouvaient
          [#]                                                | pas
             [#]                                             | payer
                [#]                                          | leurs
-                  [ ]                               #       | amendes
+                  [ ]                #                      | amendes
                      [#]                                    | et
                                #                            | que
                         [ ][ ]( )( )(#)                     | personne
@@ -900,8 +900,8 @@ Alignment:
 [#]                                                                  | comme
    [#]                                                               | vous
       ( )( )( )                                                      | le
-      ( )( )( )                #                                     | savez
-               [ ]       #                                           | ,
+      ( )( )(#)                                                      | savez
+               [#]                                                   | ,
                   [#]                                                | monsieur
                      (#)                                             | le
                      (#)                                             | Président
@@ -915,8 +915,8 @@ Alignment:
                            ( )( )( )( )( )(#)( )( )( )   ( )( )( )   | -
                            ( )( )( )( )( )(#)( )( )( )   ( )( )( )   | là
        #                   ( )( )( )( )( )( )( )( )( )   ( )( )( )   | sont
-                           ( )( )( )( )( )( )( )( )( )   ( )( )(#)   | souvent
-                               #                      [ ]            | mauvaises
+                           ( )(#)( )( )( )( )( )( )( )   ( )( )( )   | souvent
+                                                      [#]            | mauvaises
                                                                   [#]| .
 ---------------------------------------------------------------------'
  a  y  a  w  a  ,  M  S  ,  w  G  a  u  p  p  ,  t  m  b  l  a  t  . 
@@ -940,8 +940,8 @@ Alignment:
          [#]                                    | ,
                [#]                              | je
                   [ ] #                         | dis
-                  (#)                           | bien
-       #             [ ]                        | prétend
+                  ( ) #                         | bien
+                     [#]                        | prétend
                         [#]                     | ,
                            ( )(#)( )( )         | faire
                       #    ( )( )( )( )         | progresser
@@ -978,13 +978,13 @@ Alignment:
                   ( )[#]                                                | mécanisme
                ( )( )( )( )    #                                        | de
                   (#)( )                                                | application
-                  ( )( )    #                                           | obligatoire
+                  ( )( )          #                                     | obligatoire
                ( )      ( ) #                                           | ni
                ( )      ( )    #                                        | de
                            [#]                                          | méthode
-                      #       ( )( )( )                                 | permettant
-                              (#)( )( )                                 | de
-                              ( )( )( ) #                               | garantir
+                              ( )( )( )                #                | permettant
+                              ( )( )( )                                 | de
+                              ( )( )( )                #                | garantir
                                                    (#)( )( )( )( )( )   | une
                                                    ( )(#)( )( )( )( )   | véritable
                                                    ( )(#)( )( )( )( )   | participation
@@ -1031,7 +1031,7 @@ Alignment:
 ( )( )                                                                        | de
 ( )(#)                                                                        | le
 [#]( )                                                                        | Trésor
-      ( )(#)( )( )                                                            | est
+      ( )( )( )( ) #                                                          | est
       ( )( )( )( ) #                                                          | chargé
       ( )( )( )[ ]                #                                           | de
                   ( )( )    #                                                 | la
@@ -1050,7 +1050,7 @@ Alignment:
                                                       (#)( )( )( )( )( )( )   | les
                                                       [#]( )( )( )( )( )( )   | femmes
                                                       ( )( )(#)( )( )( )( )   | ne
-                         #                            ( )( )( )( )( )( )( )   | en
+                                                      ( )( )( )(#)( )( )( )   | en
                                                       ( )(#)( )( )( )( )( )   | ont
                                                       ( )( )( )( )(#)( )( )   | guère
                                                       ( )( )( )( )(#)( )( )   | bénéficié
@@ -1075,10 +1075,10 @@ Alignment:
          [#]                        | encore
             [#]                     | confinées
                [#]                  | à
- #                ( )( )( )( )( )   | les
+                  (#)( )( )( )( )   | les
              #    ( )( )( )( )( )   | tâches
                   ( )( )( )( )(#)   | parmi
-                  (#)( )( )( )( )   | les
+                  ( )( )(#)( )( )   | les
                   (#)( )( )( )( )   | plus
                   ( )( )( )( )(#)   | mal
                   ( )( )( )( )(#)   | rémunérées
@@ -1095,21 +1095,21 @@ Alignment:
 
 Alignment:
 [#]( )( )( )                                          | il
-( )( )( )( )                                  #       | importe
+( )( )( )(#)                                          | importe
             ( )   ( )( )       #                      | de
             ( )( )(#)( )                              | examiner
-                        ( )( )    #                   | le
+                      # ( )( )                        | le
                         ( )[#]                        | équité
                         ( )(#)                        | professionnelle
                       #       ( )                     | à
                          #    ( )                     | le
                               (#)                     | sein
                               ( )                     | de
-                                 [ ]                  | les
+                                 [#]                  | les
                                        ( )( )( )[#]   | programmes
                                #       ( )( )( )( )   | de
                                        ( )( )[#]( )   | création
-                                       ( )( )( )( )   | de
+                                       ( )( )(#)( )   | de
                                        [ ]( )(#)( )   | emplois
                                     [ ]          #    | fédéraux
                                                    [#]| .
@@ -1148,7 +1148,7 @@ Alignment:
                                     [ ] #                | M.
                                        [#]               | Mulroney
                                           [#]            | )
-                      #                      ( )         | a
+                                             ( ) #       | a
                                              (#)         | trahi
                                                 [#]      | sa
                                               #    ( )   | promesse
@@ -1167,19 +1167,19 @@ Alignment:
 Alignment:
 [#]                                                                  | que
    (#)( )( )( )( )                                                   | va
-   ( )( )( )( )( )       #                                           | coûter
+   ( )( )( )( )( )                   #                               | coûter
                   [#]                                                | cette
                         [#]                                          | décision
                                                                      | ,
                            (#)( )( )( )( )( )                        | en
                          # ( )( )( )( )( )( )                        | manque
-                           ( )( )( )( )( )( )             #          | à
+                           (#)( )( )( )( )( )                        | à
                          # ( )( )( )( )( )( )                        | gagner
                            ( )( )(#)( )( )( )                        | de
                            ( )( )( )( )( )(#)                        | recettes
                            ( )( )( )( )(#)( )                        | fiscales
                                #                                     | ,
-                         #                   ( )( )( )( )( )( )( )   | si
+                                           # ( )( )( )( )( )( )( )   | si
                                              ( )(#)( )( )( )( )( )   | elle
                                              ( )( )(#)( )( )( )( )   | se
                                              ( )( )( )(#)( )( )( )   | applique
@@ -1210,7 +1210,7 @@ Alignment:
          ( )( )( )( )( )( )( )                                                   | de
          [ ]( )( )( )( )( )( )                                                   | les
          ( )[#]( )( )( )( )( )                                                   | producteurs
-         ( )(#)( )( )( )( )( )                                                   | devient
+         ( )( )( )( )( )(#)( )                                                   | devient
          ( )( )( )( )(#)( )( )                                                   | insuffisant
                               [#]                                                | ,
                             #    ( )( )( )( )( )                                 | leurs
@@ -1221,7 +1221,7 @@ Alignment:
                                         #       ( )( )( )( )                     | de
                                                 ( )( )( )[#]                     | services
                                               #                      [ ]         | commencent
-                                                                        [#]      | à
+                                                                #       [ ]      | à
                                                                            (#)   | se
                                                              #             ( )   | en
                                               #                            ( )   | ressentir
@@ -1241,6 +1241,6 @@ Alignment:
                          t                                         y             
                          e                                                       
 
-Precision: 0.6510574018126888
-Recall: 0.7455621301775148
-AER: 0.31699999999999995
+Precision: 0.670196671709531
+Recall: 0.7514792899408284
+AER: 0.30230230230230226
