@@ -2,46 +2,6 @@ Using base path: ../data
 Using an additional 10000 training sentences.
 Running with data: validate
 Running with model: ibm_model2
-num-iterations:0
-num-Trained:10000
-num-iterations:1
-num-Trained:10000
-num-iterations:2
-num-Trained:10000
-num-iterations:3
-num-Trained:10000
-num-iterations:4
-num-Trained:10000
-num-iterations:5
-num-Trained:10000
-num-iterations:6
-num-Trained:10000
-num-iterations:7
-num-Trained:10000
-num-iterations:8
-num-Trained:10000
-num-iterations:9
-num-Trained:10000
-num-iterations:10
-num-Trained:10000
-num-iterations:11
-num-Trained:10000
-num-iterations:12
-num-Trained:10000
-num-iterations:13
-num-Trained:10000
-num-iterations:14
-num-Trained:10000
-num-iterations:15
-num-Trained:10000
-num-iterations:16
-num-Trained:10000
-num-iterations:17
-num-Trained:10000
-num-iterations:18
-num-Trained:10000
-num-iterations:19
-num-Trained:10000
 Alignment:
 [#]                                                                                 | chacun
    ( ) #                                                                            | en
